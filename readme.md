@@ -8,5 +8,9 @@
 
 💚 **이상락** ([@SangRakee](https://github.com/SangRakee))
 
-## 매일 오전에 스크럼 미팅, 오후에 Wrap-Up을 실시
-## 깃허브와 Hacker Md에 꾸준히 기록한다.
+## 🎥 목표
+1. 매일 오전에 스크럼 미팅, 오후에 Wrap-Up을 실시
+2. 깃허브와 Hacker Md에 꾸준히 기록한다.
+
+## 진행 기간
+- 2022.01.03 ~
